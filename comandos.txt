@@ -1,0 +1,23 @@
+ para rodar o servidor localmente: 
+ 	execute no terminal: npm run dev
+ 	acesse: http://localhost:3000/
+
+rafce faz parte da extensão ES7+ React/Redux/React-Native snippets no VS Code. Essa extensão adiciona uma série de snippets úteis para o desenvolvimento em React, Redux, JavaScript e TypeScript, ajudando a gerar automaticamente trechos de código como componentes, hooks, importações, etc. Isso facilita a criação rápida de componentes e outros trechos de código relacionados ao React!
+	rafce e enter 
+	
+	parei no minuto 21:49
+
+
+instalação	
+	npm i framer-motion
+	npm i react-icons
+	
+	shift + alt downArrow duplicar
+	alt downArrow deslocar para baixo
+	
+	Para deixar o Visual Studio Code (VSCode) mais "responsivo" no sentido de ajustar o texto à largura da tela e evitar a rolagem horizontal, você pode ativar a funcionalidade de quebra automática de linha (word wrap). Isso faz com que o código que ultrapasse a largura da janela seja automaticamente quebrado em uma nova linha, facilitando a visualização em telas menores ou ajustadas.
+	parou em 1h13min 
+	parou 1h44min
+	parou em 2h40
+	
+	contact - colocar instagram e canal do youtube
